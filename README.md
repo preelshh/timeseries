@@ -54,3 +54,6 @@ venv\Scripts\activate      # Windows
 
 Install dependencies:
 pip install numpy pandas matplotlib scikit-learn yfinance tensorflow keras
+```bash
+pip install numpy pandas matplotlib scikit-learn yfinance tensorflow keras
+```
